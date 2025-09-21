@@ -9,7 +9,7 @@ ed25519_private.pem 这个文件是读取私钥来配置客户端授权 激活�
 
 下面来配置客户端的登录群发操作
 
-
+https://github.com/tronhao/tgqunfa/blob/main/qunfa1%20(1).png
 
 这个地方的API 没有就默认使用 这个是官方TGapi 可以自己去申请使用自己的
 主要问题可能出现在 API滥用共享封禁 最好是替换成自己的 
@@ -30,6 +30,8 @@ ed25519_private.pem 这个文件是读取私钥来配置客户端授权 激活�
 这些配置可以根据自己的需求修改
 
 发送文本就选择文字
+
+https://github.com/tronhao/tgqunfa/blob/main/qunfa1%20(2).png
 
 先来测试GIF图片
 
